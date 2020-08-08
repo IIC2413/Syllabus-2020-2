@@ -30,7 +30,7 @@ Juan Reutter        | 2       | [jreutter@ing.puc.cl]
 Nombre           | Rol      | Email
 -----------------|--------- | ----------------
 Tamara Cucumides | Cátedra  | [tacucumides@uc.cl] 
-Andres Pincheira | Proyecto | [arpincheira@uc.cl]
+Andrés Pincheira | Proyecto | [arpincheira@uc.cl]
 
 #### Ayudantes
 
