@@ -36,7 +36,7 @@ Andrés Pincheira | Proyecto | [arpincheira@uc.cl]
 
 Nombre                    | Email
 ------------------------- | ---------------------
-
+Lucas Suárez              | [lrsuarez@uc.cl]
 ## Foro
 
 La página de [_Issues_](https://github.com/IIC2413/Syllabus-2020-2/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
