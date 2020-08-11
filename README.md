@@ -41,6 +41,7 @@ Andrés Jahr               | [asjahr@uc.cl]
 María Jesús Braun         | [mjbraun@uc.cl]
 Constanza Contreras       | [cacontreras6@uc.cl]
 Constanza Olate		  | [clolate@uc.cl]
+Gerardo Crot        		  | [gicrot@uc.cl]
 ## Foro
 
 La página de [_Issues_](https://github.com/IIC2413/Syllabus-2020-2/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
