@@ -48,6 +48,8 @@ Francisco López           | [fjlopez7@uc.cl]
 Agustín Rios        | [arios6@uc.cl]
 Javiera Saavedra        | [javiera.saavedra@uc.cl]
 Sebastián Castrillo        | [scastrillo@uc.cl]
+Valentina Álvarez         | [vjalvarez@uc.cl]
+
 ## Foro
 
 La página de [_Issues_](https://github.com/IIC2413/Syllabus-2020-2/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
