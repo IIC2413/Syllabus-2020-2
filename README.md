@@ -49,7 +49,7 @@ Agustín Rios              | [arios6@uc.cl]
 Javiera Saavedra          | [javiera.saavedra@uc.cl]
 Sebastián Castrillo       | [scastrillo@uc.cl]
 Valentina Álvarez         | [vjalvarez@uc.cl]
-Vicente Reyes Cabello 	  | [vicente.reyesc1@uc.cl]
+Vicente Reyes Cabello 	 | [vicente.reyesc1@uc.cl]
 
 ## Foro
 
