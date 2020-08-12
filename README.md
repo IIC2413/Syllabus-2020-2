@@ -51,6 +51,7 @@ Sebastián Castrillo       | [scastrillo@uc.cl]
 Valentina Álvarez         | [vjalvarez@uc.cl]
 Vicente Reyes Cabello 	  | [vicente.reyesc1@uc.cl]
 Mauro Mendoza             | [msmendoza@uc.cl]
+Raúl Diaz Campos          | [ridiaz2@uc.cl]
 
 [dvrgoc@ing.puc.cl]: mailto:dvrgoc@ing.puc.cl
 [jreutter@ing.puc.cl]: mailto:jreutter@ing.puc.cl
@@ -73,6 +74,7 @@ Mauro Mendoza             | [msmendoza@uc.cl]
 [vjalvarez@uc.cl]: mailto:vjalvarez@uc.cl
 [vicente.reyesc1@uc.cl]: mailto:vicente.reyesc1@uc.cl
 [msmendoza@uc.cl]: mailto:msmendoza@uc.cl
+[ridiaz2@uc.cl]: mailto:ridiaz2@uc.cl
 
 ## Foro
 
