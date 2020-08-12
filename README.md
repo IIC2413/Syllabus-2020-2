@@ -52,27 +52,27 @@ Valentina Álvarez         | [vjalvarez@uc.cl]
 Vicente Reyes Cabello 	  | [vicente.reyesc1@uc.cl]
 Mauro Mendoza             | [msmendoza@uc.cl]
 
-[dvrgoc@ing.puc.cl]: mailto:[dvrgoc@ing.puc.cl]
-[jreutter@ing.puc.cl]: mailto:[jreutter@ing.puc.cl]
+[dvrgoc@ing.puc.cl]: mailto:dvrgoc@ing.puc.cl
+[jreutter@ing.puc.cl]: mailto:jreutter@ing.puc.cl
 
-[tacucumides@uc.cl]: mailto:[tacucumides@uc.cl]
-[arpincheira@uc.cl]: mailto:[arpincheira@uc.cl]
+[tacucumides@uc.cl]: mailto:tacucumides@uc.cl
+[arpincheira@uc.cl]: mailto:arpincheira@uc.cl
 
-[lrsuarez@uc.cl]: mailto:[lrsuarez@uc.cl]
-[asjahr@uc.cl]: mailto:[asjahr@uc.cl]
-[mjbraun@uc.cl]: mailto:[mjbraun@uc.cl]
-[cacontreras6@uc.cl]: mailto:[cacontreras6@uc.cl]
-[clolate@uc.cl]: mailto:[clolate@uc.cl]
-[gicrot@uc.cl]: mailto:[gicrot@uc.cl]
-[miortiz1@uc.cl]: mailto:[miortiz1@uc.cl]
-[diustilovsky@uc.cl]: mailto:[diustilovsky@uc.cl]
-[fjlopez7@uc.cl]: mailto:[fjlopez7@uc.cl]
-[arios6@uc.cl]: mailto:[arios6@uc.cl]
-[javiera.saavedra@uc.cl]: mailto:[javiera.saavedra@uc.cl]
-[scastrillo@uc.cl]: mailto:[scastrillo@uc.cl]
-[vjalvarez@uc.cl]: mailto:[vjalvarez@uc.cl]
-[vicente.reyesc1@uc.cl]: mailto:[vicente.reyesc1@uc.cl]
-[msmendoza@uc.cl]: mailto:[msmendoza@uc.cl]
+[lrsuarez@uc.cl]: mailto:lrsuarez@uc.cl
+[asjahr@uc.cl]: mailto:asjahr@uc.cl
+[mjbraun@uc.cl]: mailto:mjbraun@uc.cl
+[cacontreras6@uc.cl]: mailto:cacontreras6@uc.cl
+[clolate@uc.cl]: mailto:clolate@uc.cl
+[gicrot@uc.cl]: mailto:gicrot@uc.cl
+[miortiz1@uc.cl]: mailto:miortiz1@uc.cl
+[diustilovsky@uc.cl]: mailto:diustilovsky@uc.cl
+[fjlopez7@uc.cl]: mailto:fjlopez7@uc.cl
+[arios6@uc.cl]: mailto:arios6@uc.cl
+[javiera.saavedra@uc.cl]: mailto:javiera.saavedra@uc.cl
+[scastrillo@uc.cl]: mailto:scastrillo@uc.cl
+[vjalvarez@uc.cl]: mailto:vjalvarez@uc.cl
+[vicente.reyesc1@uc.cl]: mailto:vicente.reyesc1@uc.cl
+[msmendoza@uc.cl]: mailto:msmendoza@uc.cl
 
 ## Foro
 
