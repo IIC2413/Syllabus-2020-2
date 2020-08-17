@@ -1,4 +1,4 @@
-# Clases Online
+# Videos de materia
 
 | Nombre Clase |  Link |
 |--------------|------|
