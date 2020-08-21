@@ -1,0 +1,46 @@
+group: Clinica Anticov
+description[[ Dataset para ayudantia
+]]
+
+
+Doctores = {
+	did:number, nombre:string, tarea:string, turno:string
+	1         , 'Luis'       , 'cirujia'     , 'mañana' 
+	1         , 'Luis'       , 'cirujia'     , 'tarde'   
+	2         , 'Matias'       , 'covid'     , 'mañana'            
+	3         , 'Sofia'      , 'covid'     , 'mañana'            
+	4         , 'German'       , 'test-covid'     , 'tarde'  
+	5         , 'Moises'       , 'revisiones'     , 'mañana'  
+	6         , 'Francisca'       , 'test-covid'     , 'mañana'  
+	7         , 'Ignacia'       , 'covid'     , 'tarde'  
+	8         , 'Valentina'       , 'covid'     , 'tarde' 
+	8         , 'Valentina'       , 'covid'     , 'mañana' 
+	2         , 'Matias'       , 'covid'     , 'tarde' 
+	5         , 'Moises'       , 'revisiones'     , 'tarde' 
+	9         , 'Pablo'       , 'cirujia'     , 'mañana' 
+	10         , 'Emilia'       , 'emergencias'     , 'tarde' 
+}
+
+Pacientes = {
+	pid:number , nombre:string, asunto:string
+	1          , 'Agustin'    , 'huesos rotos'
+	2          , 'Karen'        , 'contagio de covid leve'
+	3          , 'Tere',  'donación de organos'
+	4          , 'Cristobal'        , 'revision'
+	5          , 'Pato'        , 'intoxicacion'
+	6          , 'Asuncion'        , 'revision'
+	7          , 'Tomas'        , 'contagio de covid leve'
+	8          , 'Vicente'        , 'contagio de covid avanzado'
+}
+
+Comprobante = {
+	cid:number, did:number, pid:number, costo:number, sala:string
+	1         , 10         , 1         , 40         , 'a1'
+	2         , 2         , 2         , 50         ,  'd2'
+	3         , 1         , 3         , 30         , 'b2'
+	4         , 5         , 4         , 10         , 'b3'
+	5         , 10         , 5         , 50         , 'a3'
+	6         , 5         , 6         , 10         , 'b1'
+	7         , 8         , 7         , 50         , 'a2'
+	8         , 7         , 8         , 60         , 'd1'
+}
