@@ -1,5 +1,3 @@
-# Videos de ayudantias 
+# Ayudantia 1
 
-| Nombre Clase | Link |
-|--------------|------|
-|Ayudantia 1: Algebra relacional y conexion al servidor | https://drive.google.com/file/d/1E_0X6rLSObBOl758yfAVFFeG6ngiytCS/view?usp=sharing |
+En el ppt estan las consultas realizadas y luego en el .txt estan las respuestas a ellas en formato relax. 
