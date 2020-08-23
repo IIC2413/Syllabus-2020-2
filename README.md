@@ -52,6 +52,7 @@ Valentina Álvarez         | [vjalvarez@uc.cl]
 Vicente Reyes Cabello 	  | [vicente.reyesc1@uc.cl]
 Mauro Mendoza             | [msmendoza@uc.cl]
 Raúl Diaz Campos          | [ridiaz2@uc.cl]
+Jerry Mendoza             | [jamendoza@uc.cl]
 
 [dvrgoc@ing.puc.cl]: mailto:dvrgoc@ing.puc.cl
 [jreutter@ing.puc.cl]: mailto:jreutter@ing.puc.cl
