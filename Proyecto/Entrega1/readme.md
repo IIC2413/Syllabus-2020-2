@@ -13,6 +13,8 @@ Los puntajes asignados son los siguientes:
 - **(3 pts) Consultas:** 
   - 1 pto por cada consulta correcta entregada.
 
+- **(+3 décimas) Ingresar una tabla y una Tupla a Postgress**
+
 ## Descuentos
 
 - (1 pto) Por subir el archivo en una carpeta incorrecta en el servidor.
