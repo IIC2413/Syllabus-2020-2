@@ -76,6 +76,7 @@ Jerry Mendoza             | [jamendoza@uc.cl]
 [vicente.reyesc1@uc.cl]: mailto:vicente.reyesc1@uc.cl
 [msmendoza@uc.cl]: mailto:msmendoza@uc.cl
 [ridiaz2@uc.cl]: mailto:ridiaz2@uc.cl
+[jamendoza@uc.cl]: mailto:jamendoza@uc.cl
 
 ## Foro
 
