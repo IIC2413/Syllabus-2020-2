@@ -9,3 +9,6 @@
 | SQL I: Sistemas de bases de datos | https://www.youtube.com/watch?v=Ce-hNjfninU&list=PLleedqq9njXUHhFeOJzgsMThN4bzKtl8c | 
 | SQL II: Consultas básicas | https://www.youtube.com/watch?v=K8bgmWoty0E&list=PLleedqq9njXUHhFeOJzgsMThN4bzKtl8c&index=2 | 
 | SQL III: Agregación | https://www.youtube.com/watch?v=n-Ky1go7Alk&list=PLleedqq9njXUHhFeOJzgsMThN4bzKtl8c&index=3 | 
+| Diagramas E/R | por definir | 
+| Llaves foraneas | https://www.youtube.com/watch?v=V9BshcMCpVQ | 
+
