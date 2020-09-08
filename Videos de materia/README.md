@@ -11,4 +11,5 @@
 | SQL III: Agregación | https://www.youtube.com/watch?v=n-Ky1go7Alk&list=PLleedqq9njXUHhFeOJzgsMThN4bzKtl8c&index=3 | 
 | Diagramas E/R | https://drive.google.com/file/d/1c8vU72hO-w-uZUDxuMsqzj_D0tj6gNHX/view?usp=sharing | 
 | Llaves foraneas | https://www.youtube.com/watch?v=V9BshcMCpVQ | 
+| Dependencias, nulos, outerjoins | https://www.youtube.com/playlist?list=PLeLV_ztnnBSgXrf-mX_YO5hCqpxYVDx05 |
 
