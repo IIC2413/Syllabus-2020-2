@@ -12,7 +12,7 @@
 ---
 
 ## Notas
-
+Las notas serán publicadas en [ este link ](https://docs.google.com/spreadsheets/d/1d5p_HzLSc0n7MnTgX0DvYpIWzBirbrur8T_MqIo0etM/edit?usp=sharing)
 
 ## Equipo
 
