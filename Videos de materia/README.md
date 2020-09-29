@@ -12,4 +12,7 @@
 | Diagramas E/R | https://drive.google.com/file/d/1c8vU72hO-w-uZUDxuMsqzj_D0tj6gNHX/view?usp=sharing | 
 | Llaves foraneas | https://www.youtube.com/watch?v=V9BshcMCpVQ | 
 | Dependencias, nulos, outerjoins | https://www.youtube.com/playlist?list=PLeLV_ztnnBSgXrf-mX_YO5hCqpxYVDx05 |
+| SQL y Python | https://drive.google.com/file/d/1-jXeN4KCjWIiLSgLhSVe1RWGBAzpfDA8/view?usp=sharing |
+| SQL inyección | https://drive.google.com/file/d/1mrXrdWPdY1HeNvKQdqA31hqWLkH9MYUn/view?usp=sharing |
+| SQL y otros lenguajes de programación | https://drive.google.com/file/d/1T0dqoo12LAtA3VOINUAJxHd-_rRQIWHk/view?usp=sharing |
 
