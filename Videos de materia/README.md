@@ -15,4 +15,6 @@
 | SQL y Python | https://drive.google.com/file/d/1-jXeN4KCjWIiLSgLhSVe1RWGBAzpfDA8/view?usp=sharing |
 | SQL inyección | https://drive.google.com/file/d/1mrXrdWPdY1HeNvKQdqA31hqWLkH9MYUn/view?usp=sharing |
 | SQL y otros lenguajes de programación | https://drive.google.com/file/d/1T0dqoo12LAtA3VOINUAJxHd-_rRQIWHk/view?usp=sharing |
+| SQL y recursion | https://www.youtube.com/watch?v=2KEeeRayEMk&list=PLeLV_ztnnBSi8K-UBEs44D5xidvwP8kDH&index=2 |
+| Procedimientos almacenados en una BD | https://www.youtube.com/watch?v=IbgbzdUurNg&list=PLeLV_ztnnBSi8K-UBEs44D5xidvwP8kDH&index=1&t=554s |
 
