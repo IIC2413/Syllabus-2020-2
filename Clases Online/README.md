@@ -8,6 +8,6 @@
 |Dependencias y formas normales              | 09/09 | https://drive.google.com/file/d/1Q4WfFthX2_iBj4n1CzW9GjFieifHj-AW/view?usp=sharing |
 |Procedimientos almacenados             | 30/09 | https://drive.google.com/file/d/1lAkJj3th2TuB4mOwJUB608F1WnlG_KnI/view?usp=sharing |
 |Índices e algoritmos            |07/10 | https://drive.google.com/file/d/1Gs1xorQJ_K6GrozZ1sBivG8IbqdckNTW/view?usp=sharing |
-|Transacciones y recuperación de fallas           |07/10 | https://drive.google.com/file/d/1wB8qchOQWAIK-FT-d2LhYUbU4Z7Ex1M-/view?usp=sharing |
+|Transacciones y recuperación de fallas           |28/10 | https://drive.google.com/file/d/1wB8qchOQWAIK-FT-d2LhYUbU4Z7Ex1M-/view?usp=sharing |
 
 
