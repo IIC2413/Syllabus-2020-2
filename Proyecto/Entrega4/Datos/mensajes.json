@@ -1,0 +1,2612 @@
+[
+    {
+        "mid": 1,
+        "message": "Qué tal? Me gustó el hotel que reservé. 10 - 4.",
+        "sender": 86,
+        "receptant": 261,
+        "lat": -51.729782,
+        "long": -72.515097,
+        "date": "2020-08-02"
+    },
+    {
+        "mid": 2,
+        "message": "Buena! This is no time for caution, TARS. Eso me tiene bien.",
+        "sender": 261,
+        "receptant": 86,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-03"
+    },
+    {
+        "mid": 3,
+        "message": "Gracias por la consagración! Ahora necesito una pared más grande",
+        "sender": 396,
+        "receptant": 351,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-04"
+    },
+    {
+        "mid": 4,
+        "message": "Entonces cuéntame quien los oculta!",
+        "sender": 351,
+        "receptant": 396,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-19"
+    },
+    {
+        "mid": 5,
+        "message": "Konnichiwa! Estuve pensando en lo de P y NP.",
+        "sender": 89,
+        "receptant": 145,
+        "lat": -22.093103,
+        "long": -70.211854,
+        "date": "2020-08-22"
+    },
+    {
+        "mid": 6,
+        "message": "Qué tal? Quiero organizar una fiesta de té. Eso me tiene mal.",
+        "sender": 145,
+        "receptant": 89,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-29"
+    },
+    {
+        "mid": 7,
+        "message": "Konnichiwa! Me robé su corazón. 10 - 4.",
+        "sender": 228,
+        "receptant": 241,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-03"
+    },
+    {
+        "mid": 8,
+        "message": "Tanto tiempo! Ayer hice un sendero muy fácil. Me despido, salu3.",
+        "sender": 241,
+        "receptant": 228,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-04"
+    },
+    {
+        "mid": 9,
+        "message": "Te cuento que: Alcancé el equilibrio espiritual. Espero que nos juntemos pronto.",
+        "sender": 214,
+        "receptant": 96,
+        "lat": -53.123278,
+        "long": -70.86025,
+        "date": "2020-09-06"
+    },
+    {
+        "mid": 10,
+        "message": "Hiciste la tarea de BD?",
+        "sender": 96,
+        "receptant": 214,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-07"
+    },
+    {
+        "mid": 11,
+        "message": "Konnichiwa! Lorem ipsum dolor sit amet. 10 - 4.",
+        "sender": 132,
+        "receptant": 48,
+        "lat": -25.407497,
+        "long": -70.489783,
+        "date": "2020-09-08"
+    },
+    {
+        "mid": 12,
+        "message": "Konnichiwa! Ayer hcie un sendero muy difícil. Eso me tiene bien.",
+        "sender": 48,
+        "receptant": 132,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-13"
+    },
+    {
+        "mid": 13,
+        "message": "Te cuento que: Me encanta el metal. Me despido, saludos.",
+        "sender": 393,
+        "receptant": 392,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-16"
+    },
+    {
+        "mid": 14,
+        "message": "Te encontramos... Kudo Shinichi",
+        "sender": 392,
+        "receptant": 393,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-17"
+    },
+    {
+        "mid": 15,
+        "message": "Hola! Viste la teleserie?",
+        "sender": 161,
+        "receptant": 251,
+        "lat": -53.123278,
+        "long": -70.86025,
+        "date": "2020-09-22"
+    },
+    {
+        "mid": 16,
+        "message": "Nada que hacer entonces no?",
+        "sender": 251,
+        "receptant": 161,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-25"
+    },
+    {
+        "mid": 17,
+        "message": "Oye, cómo va la vida?",
+        "sender": 184,
+        "receptant": 337,
+        "lat": -36.716378,
+        "long": -73.104731,
+        "date": "2020-09-26"
+    },
+    {
+        "mid": 18,
+        "message": "Gaviotas gaviotas y más gaviotas, que más quieres que te diga. Eso me tiene mal",
+        "sender": 337,
+        "receptant": 184,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-27"
+    },
+    {
+        "mid": 19,
+        "message": "Buena! Has ido al nuevo restaurant?",
+        "sender": 365,
+        "receptant": 361,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-30"
+    },
+    {
+        "mid": 20,
+        "message": "La Tierra es una reserva de protección de vida salvaje. Estamos reconstruyendo la población de mosquitos... que déjeme recordarle es una especie en peligro.",
+        "sender": 361,
+        "receptant": 365,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-10-05"
+    },
+    {
+        "mid": 21,
+        "message": "Si, es un muñeco, muy guapo y de cartón",
+        "sender": 450,
+        "receptant": 150,
+        "lat": -37.026453,
+        "long": -73.149839,
+        "date": "2020-10-10"
+    },
+    {
+        "mid": 22,
+        "message": "Konnichiwa! Me robé su corazón. Bai.",
+        "sender": 150,
+        "receptant": 450,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-10-11"
+    },
+    {
+        "mid": 23,
+        "message": "Te cuento que: Está difícil la tarea.",
+        "sender": 95,
+        "receptant": 230,
+        "lat": -23.097062,
+        "long": -70.448128,
+        "date": "2020-10-15"
+    },
+    {
+        "mid": 24,
+        "message": "Tanto tiempo! Me gustó el hotel que reservé. Espero que nos juntemos pronto.",
+        "sender": 230,
+        "receptant": 95,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-26"
+    },
+    {
+        "mid": 25,
+        "message": "Y tuve que resignarme a esta situación",
+        "sender": 355,
+        "receptant": 433,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-28"
+    },
+    {
+        "mid": 26,
+        "message": "Konnichiwa! Lorem ipsum dolor sit amet. Espero que nos juntemos pronto.",
+        "sender": 433,
+        "receptant": 355,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-03"
+    },
+    {
+        "mid": 27,
+        "message": "Te cuento que: voy a empezar a aprender más inglés",
+        "sender": 113,
+        "receptant": 39,
+        "lat": -25.407497,
+        "long": -70.489783,
+        "date": "2020-08-06"
+    },
+    {
+        "mid": 28,
+        "message": "Viste las noticias?",
+        "sender": 39,
+        "receptant": 113,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-08"
+    },
+    {
+        "mid": 29,
+        "message": "Si! se lava se lava la carita",
+        "sender": 289,
+        "receptant": 265,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-10"
+    },
+    {
+        "mid": 30,
+        "message": "Buena! I like turtles :). Eso me hace feliz.",
+        "sender": 265,
+        "receptant": 289,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-14"
+    },
+    {
+        "mid": 31,
+        "message": "Hola? buena, cómo estás?",
+        "sender": 106,
+        "receptant": 304,
+        "lat": -23.645967,
+        "long": -70.407993,
+        "date": "2020-08-16"
+    },
+    {
+        "mid": 32,
+        "message": "Creemos que Ud. ha creado \"algo\".",
+        "sender": 304,
+        "receptant": 106,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-17"
+    },
+    {
+        "mid": 33,
+        "message": "Cómo estás? Me robé su corazón. Eso me hace feliz.",
+        "sender": 286,
+        "receptant": 8,
+        "lat": -27.153662,
+        "long": -109.442666,
+        "date": "2020-08-21"
+    },
+    {
+        "mid": 34,
+        "message": "Konnichiwa! Me comí un churrasco. Jajajajaja.",
+        "sender": 8,
+        "receptant": 286,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-22"
+    },
+    {
+        "mid": 35,
+        "message": "Cómo estás? Te quiero 3000. Jajajajaja.",
+        "sender": 365,
+        "receptant": 457,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-29"
+    },
+    {
+        "mid": 36,
+        "message": "Tanto tiempo! Te quiero 3000. Me despido, salu5.",
+        "sender": 457,
+        "receptant": 365,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-30"
+    },
+    {
+        "mid": 37,
+        "message": "Hey! Me quiero ir del United. Me despido, saludos.",
+        "sender": 77,
+        "receptant": 198,
+        "lat": -23.75954,
+        "long": -70.463459,
+        "date": "2020-08-31"
+    },
+    {
+        "mid": 38,
+        "message": "Por cosas del destino no morí en la glaciación",
+        "sender": 198,
+        "receptant": 77,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-01"
+    },
+    {
+        "mid": 39,
+        "message": "Cómo estás? Pensé en lo que el paso de las estaciones significa en mi vida. Bai.",
+        "sender": 115,
+        "receptant": 186,
+        "lat": -50.394799,
+        "long": -75.342221,
+        "date": "2020-09-04"
+    },
+    {
+        "mid": 40,
+        "message": "Buena! Quiero jugar Pokémon. Cambio y fuera.",
+        "sender": 186,
+        "receptant": 115,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-07"
+    },
+    {
+        "mid": 41,
+        "message": "Hay muchos mensajes que no son mensajes no?",
+        "sender": 354,
+        "receptant": 407,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-08"
+    },
+    {
+        "mid": 42,
+        "message": "Eres un monstruo!",
+        "sender": 407,
+        "receptant": 354,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-09"
+    },
+    {
+        "mid": 43,
+        "message": "Hola! Cobreloa es el mejor equipo del mundo. Bai.",
+        "sender": 182,
+        "receptant": 94,
+        "lat": -36.713687,
+        "long": -72.986593,
+        "date": "2020-09-15"
+    },
+    {
+        "mid": 44,
+        "message": "",
+        "sender": 94,
+        "receptant": 182,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-17"
+    },
+    {
+        "mid": 45,
+        "message": "Tanto tiempo! Fue falta profe! Me despido, salu5.",
+        "sender": 172,
+        "receptant": 161,
+        "lat": -53.123278,
+        "long": -70.86025,
+        "date": "2020-09-20"
+    },
+    {
+        "mid": 46,
+        "message": "Hola, cómo has estado?",
+        "sender": 161,
+        "receptant": 172,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-23"
+    },
+    {
+        "mid": 47,
+        "message": "No se llaaaaaama, saludos",
+        "sender": 282,
+        "receptant": 287,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-30"
+    },
+    {
+        "mid": 48,
+        "message": "Hola! Me encanta el metal. Bai.",
+        "sender": 287,
+        "receptant": 282,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-10-02"
+    },
+    {
+        "mid": 49,
+        "message": "Hola! Cómo estás?",
+        "sender": 43,
+        "receptant": 113,
+        "lat": -37.026453,
+        "long": -73.149839,
+        "date": "2020-10-30"
+    },
+    {
+        "mid": 50,
+        "message": "Buena! no encunetras aburrido tener que trabajar todo el día?",
+        "sender": 113,
+        "receptant": 43,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-10-31"
+    },
+    {
+        "mid": 51,
+        "message": "Ahora dime, dónde están los otros?",
+        "sender": 245,
+        "receptant": 5,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-08-01"
+    },
+    {
+        "mid": 52,
+        "message": "Te cuento que: Descubrí que sobre las nubes vuela el aliento. Me despido, salu5.",
+        "sender": 5,
+        "receptant": 245,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-03"
+    },
+    {
+        "mid": 53,
+        "message": "Tanto tiempo! Cobreloa es el mejor equipo del mundo.",
+        "sender": 98,
+        "receptant": 377,
+        "lat": -36.713394,
+        "long": -72.987537,
+        "date": "2020-08-07"
+    },
+    {
+        "mid": 54,
+        "message": "Hola! Has ido al nuevo restaurant?",
+        "sender": 377,
+        "receptant": 98,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-18"
+    },
+    {
+        "mid": 55,
+        "message": "Hola! Me encanta el reggaetton. Cuando un partido?",
+        "sender": 431,
+        "receptant": 198,
+        "lat": -23.75954,
+        "long": -70.463459,
+        "date": "2020-08-20"
+    },
+    {
+        "mid": 56,
+        "message": "Carga y descarga todo el día?",
+        "sender": 198,
+        "receptant": 431,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-23"
+    },
+    {
+        "mid": 57,
+        "message": "Tanto tiempo! Quiero hacer el tour de Robert Langdon por Roma. No sé que hacer al respecto.",
+        "sender": 363,
+        "receptant": 216,
+        "lat": -18.474642,
+        "long": -70.321262,
+        "date": "2020-08-25"
+    },
+    {
+        "mid": 58,
+        "message": "Mis amigos se extinguieron, me dejaron solo",
+        "sender": 216,
+        "receptant": 363,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-26"
+    },
+    {
+        "mid": 59,
+        "message": "Te cuento que: Escuché la nueva canción de Metallica. Cuando un partido?",
+        "sender": 438,
+        "receptant": 32,
+        "lat": -33.589508,
+        "long": -71.61972,
+        "date": "2020-08-28"
+    },
+    {
+        "mid": 60,
+        "message": "Hola! Cómo va tu curso de origami?",
+        "sender": 32,
+        "receptant": 438,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-29"
+    },
+    {
+        "mid": 61,
+        "message": "Pasó algo. Bailé hasta muy tarde.",
+        "sender": 84,
+        "receptant": 141,
+        "lat": -50.394799,
+        "long": -75.342221,
+        "date": "2020-08-31"
+    },
+    {
+        "mid": 62,
+        "message": "Buena! Cómo te fue con el encargo?",
+        "sender": 141,
+        "receptant": 84,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-02"
+    },
+    {
+        "mid": 63,
+        "message": "Has ido al nuevo restaurant?",
+        "sender": 149,
+        "receptant": 396,
+        "lat": -41.867364,
+        "long": -73.830638,
+        "date": "2020-09-03"
+    },
+    {
+        "mid": 64,
+        "message": "La otra vez vi un pez así de grande",
+        "sender": 396,
+        "receptant": 149,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-09"
+    },
+    {
+        "mid": 65,
+        "message": "Tenemos que hablar. Ayer hice un sendero muy fácil. Me despido, saludos.",
+        "sender": 383,
+        "receptant": 260,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-10"
+    },
+    {
+        "mid": 66,
+        "message": "Buena! Es increíble lo que hace la tecnología",
+        "sender": 260,
+        "receptant": 383,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-15"
+    },
+    {
+        "mid": 67,
+        "message": "Cómo estás? Me lesioné. Eso me hace feliz.",
+        "sender": 250,
+        "receptant": 212,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-09-16"
+    },
+    {
+        "mid": 68,
+        "message": "jajajajaja. el futuro es hoy viejo",
+        "sender": 212,
+        "receptant": 250,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-20"
+    },
+    {
+        "mid": 69,
+        "message": "Viste la teleserie?",
+        "sender": 128,
+        "receptant": 21,
+        "lat": -23.097062,
+        "long": -70.448128,
+        "date": "2020-09-24"
+    },
+    {
+        "mid": 70,
+        "message": "Hola! A mi me gusta el Tangananica",
+        "sender": 21,
+        "receptant": 128,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-27"
+    },
+    {
+        "mid": 71,
+        "message": "agua",
+        "sender": 200,
+        "receptant": 449,
+        "lat": -36.737253,
+        "long": -73.133979,
+        "date": "2020-10-04"
+    },
+    {
+        "mid": 72,
+        "message": "Hola! Me quiero ir del Barça. Espero que nos juntemos pronto.",
+        "sender": 449,
+        "receptant": 200,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-10-17"
+    },
+    {
+        "mid": 73,
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 272,
+        "receptant": 151,
+        "lat": -22.093103,
+        "long": -70.211854,
+        "date": "2020-10-21"
+    },
+    {
+        "mid": 74,
+        "message": "Sucede que: Fue falta profe! No sé que hacer al respecto.",
+        "sender": 151,
+        "receptant": 272,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-28"
+    },
+    {
+        "mid": 75,
+        "message": "Tenemos que hablar. No sé que hacer. Me despido, salu3.",
+        "sender": 113,
+        "receptant": 417,
+        "lat": -37.026453,
+        "long": -73.149839,
+        "date": "2020-10-29"
+    },
+    {
+        "mid": 76,
+        "message": "Qué tal? Estoy intentando aprobar el test de turing. Eso me tiene bien.",
+        "sender": 417,
+        "receptant": 113,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-02"
+    },
+    {
+        "mid": 77,
+        "message": "Konnichiwa! Canté mi canción favorita anoche. Eso me hace feliz.",
+        "sender": 257,
+        "receptant": 112,
+        "lat": -23.079884,
+        "long": -70.385076,
+        "date": "2020-08-03"
+    },
+    {
+        "mid": 78,
+        "message": "Cómo estás? Tengo que estudiar Bases de Datos. Eso me tiene mal.",
+        "sender": 112,
+        "receptant": 257,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-04"
+    },
+    {
+        "mid": 79,
+        "message": "Me aburría mucho porque no tenía parientes",
+        "sender": 380,
+        "receptant": 322,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-12"
+    },
+    {
+        "mid": 80,
+        "message": "Buena! No recuerdo nada. Cuando un partido?",
+        "sender": 322,
+        "receptant": 380,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-13"
+    },
+    {
+        "mid": 81,
+        "message": "Cómo estás? Quería saber cómo va tu día. Espero que nos juntemos pronto.",
+        "sender": 9,
+        "receptant": 114,
+        "lat": -18.474642,
+        "long": -70.321262,
+        "date": "2020-08-14"
+    },
+    {
+        "mid": 82,
+        "message": "Vermouth, ¿dónde estás? trae el APTX4869, vamos a entrar al museo",
+        "sender": 114,
+        "receptant": 9,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-16"
+    },
+    {
+        "mid": 83,
+        "message": "Qué tal? No recuerdo nada. Cambio y fuera.",
+        "sender": 58,
+        "receptant": 362,
+        "lat": -36.737253,
+        "long": -73.133979,
+        "date": "2020-08-20"
+    },
+    {
+        "mid": 84,
+        "message": "Hola! Ayer hice un sendero muy fácil. Me despido, saludos.",
+        "sender": 362,
+        "receptant": 58,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-28"
+    },
+    {
+        "mid": 85,
+        "message": "Cómo estás? Keep calm and buy NebCoins. Cambio y fuera.",
+        "sender": 48,
+        "receptant": 210,
+        "lat": -52.847837,
+        "long": -70.267816,
+        "date": "2020-08-29"
+    },
+    {
+        "mid": 86,
+        "message": "Tenemos que hablar. Di un concierto anoche. Eso me tiene bien.",
+        "sender": 210,
+        "receptant": 48,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-01"
+    },
+    {
+        "mid": 87,
+        "message": "",
+        "sender": 80,
+        "receptant": 4,
+        "lat": -32.77554,
+        "long": -71.526049,
+        "date": "2020-09-13"
+    },
+    {
+        "mid": 88,
+        "message": "Qué tal? Me quiero ir del United. Eso me hace feliz.",
+        "sender": 4,
+        "receptant": 80,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-17"
+    },
+    {
+        "mid": 89,
+        "message": "Cómo estás? Hice un pingüino de origami. Espero que nos juntemos pronto.",
+        "sender": 334,
+        "receptant": 14,
+        "lat": -18.474642,
+        "long": -70.321262,
+        "date": "2020-09-29"
+    },
+    {
+        "mid": 90,
+        "message": "",
+        "sender": 14,
+        "receptant": 334,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-30"
+    },
+    {
+        "mid": 91,
+        "message": "Konnichiwa! Di un concierto anoche. Jijiji.",
+        "sender": 99,
+        "receptant": 273,
+        "lat": -26.356527,
+        "long": -70.639502,
+        "date": "2020-10-03"
+    },
+    {
+        "mid": 92,
+        "message": "Tanto tiempo! Ayer hice un sendero muy fácil. Cambio y fuera.",
+        "sender": 273,
+        "receptant": 99,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-04"
+    },
+    {
+        "mid": 93,
+        "message": "Hola! Pensaste en la propuesta?",
+        "sender": 356,
+        "receptant": 64,
+        "lat": -32.77554,
+        "long": -71.526049,
+        "date": "2020-10-07"
+    },
+    {
+        "mid": 94,
+        "message": "Konnichiwa! No recuerdo nada. Eso me tiene mal.",
+        "sender": 64,
+        "receptant": 356,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-12"
+    },
+    {
+        "mid": 95,
+        "message": "Uno, dos, tres, cuatro probando probando 123 jajajajaja",
+        "sender": 302,
+        "receptant": 143,
+        "lat": -27.055978,
+        "long": -70.833427,
+        "date": "2020-10-18"
+    },
+    {
+        "mid": 96,
+        "message": "Tenemos que hablar. Hubo un gol de Audax. No sé que hacer al respecto.",
+        "sender": 143,
+        "receptant": 302,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-20"
+    },
+    {
+        "mid": 97,
+        "message": "Buena! Vas a venir?",
+        "sender": 232,
+        "receptant": 97,
+        "lat": -28.461003,
+        "long": -71.223519,
+        "date": "2020-10-22"
+    },
+    {
+        "mid": 98,
+        "message": "Te cuento que: Me encanta el metal. Jajajajaja.",
+        "sender": 97,
+        "receptant": 232,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-10-24"
+    },
+    {
+        "mid": 99,
+        "message": "Buena! Hice un pingüino de origami. Espero que nos juntemos pronto.",
+        "sender": 365,
+        "receptant": 320,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-10-25"
+    },
+    {
+        "mid": 100,
+        "message": "Te cuento que: Estoy intentando aprobar el test de turing. Me despido, salu3.",
+        "sender": 320,
+        "receptant": 365,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-27"
+    },
+    {
+        "mid": 101,
+        "message": "Buena! Me quiero ir del United.",
+        "sender": 9,
+        "receptant": 146,
+        "lat": -28.461003,
+        "long": -71.223519,
+        "date": "2020-08-10"
+    },
+    {
+        "mid": 102,
+        "message": "Hey! No sé que hacer. Eso me tiene mal.",
+        "sender": 146,
+        "receptant": 9,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-13"
+    },
+    {
+        "mid": 103,
+        "message": "Cómo estás? Canté mi canción favorita anoche. Me despido, salu5.",
+        "sender": 42,
+        "receptant": 117,
+        "lat": -54.932902,
+        "long": -67.608116,
+        "date": "2020-08-15"
+    },
+    {
+        "mid": 104,
+        "message": "Buena! Me gustó el hotel que reservé. No sé que hacer al respecto.",
+        "sender": 117,
+        "receptant": 42,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-16"
+    },
+    {
+        "mid": 105,
+        "message": "Hey! Mi muñeca me habló. Me despido, salu5.",
+        "sender": 402,
+        "receptant": 119,
+        "lat": -23.097062,
+        "long": -70.448128,
+        "date": "2020-08-17"
+    },
+    {
+        "mid": 106,
+        "message": "Tanto tiempo! I m a pickle. Jijiji.",
+        "sender": 119,
+        "receptant": 402,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-19"
+    },
+    {
+        "mid": 107,
+        "message": "Konnichiwa! Quiero organizar una fiesta de té. Me despido, saludos.",
+        "sender": 295,
+        "receptant": 388,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-25"
+    },
+    {
+        "mid": 108,
+        "message": "Qué tal? Perdí mi pingüino. No sé que hacer al respecto.",
+        "sender": 388,
+        "receptant": 295,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-01"
+    },
+    {
+        "mid": 109,
+        "message": "Tanto tiempo! Bailé hasta muy tarde. No sé que hacer al respecto.",
+        "sender": 81,
+        "receptant": 399,
+        "lat": -42.481975,
+        "long": -73.757947,
+        "date": "2020-09-02"
+    },
+    {
+        "mid": 110,
+        "message": "Sucede que: Hice un pingüino de origami. Eso me tiene mal.",
+        "sender": 399,
+        "receptant": 81,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-04"
+    },
+    {
+        "mid": 111,
+        "message": "agua",
+        "sender": 425,
+        "receptant": 131,
+        "lat": -36.737253,
+        "long": -73.133979,
+        "date": "2020-09-06"
+    },
+    {
+        "mid": 112,
+        "message": "",
+        "sender": 131,
+        "receptant": 425,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-07"
+    },
+    {
+        "mid": 113,
+        "message": "Hey! Alcancé el equilibrio espiritual. Me despido, saludos.",
+        "sender": 29,
+        "receptant": 24,
+        "lat": -22.093103,
+        "long": -70.211854,
+        "date": "2020-09-08"
+    },
+    {
+        "mid": 114,
+        "message": "Buena! Pensaste en la propuesta?",
+        "sender": 24,
+        "receptant": 29,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-09"
+    },
+    {
+        "mid": 115,
+        "message": "Este eres tú. Este es tu nivel de maldad. Es muy alto para alguien de tu tamaño. Tenemos que arreglar eso.",
+        "sender": 28,
+        "receptant": 224,
+        "lat": -27.082483,
+        "long": -70.844497,
+        "date": "2020-09-18"
+    },
+    {
+        "mid": 116,
+        "message": "Konnichiwa! Descubrí que sobre las nubes vuela el aliento. Me despido, saludos.",
+        "sender": 224,
+        "receptant": 28,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-21"
+    },
+    {
+        "mid": 117,
+        "message": "Vas a venir?",
+        "sender": 199,
+        "receptant": 183,
+        "lat": -45.462659,
+        "long": -72.824656,
+        "date": "2020-09-29"
+    },
+    {
+        "mid": 118,
+        "message": "Hola! Te quiero 3000. 10 - 4.",
+        "sender": 183,
+        "receptant": 199,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-09"
+    },
+    {
+        "mid": 119,
+        "message": "Tenemos que hablar. Estoy intentando aprobar el test de turing. Eso me tiene mal.",
+        "sender": 215,
+        "receptant": 416,
+        "lat": -29.975174,
+        "long": -71.347245,
+        "date": "2020-10-13"
+    },
+    {
+        "mid": 120,
+        "message": "Nadie conocido con quien salir a jugar",
+        "sender": 416,
+        "receptant": 215,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-15"
+    },
+    {
+        "mid": 121,
+        "message": "Te vendo la pintura, pero te advierto, vale una fortuna",
+        "sender": 343,
+        "receptant": 85,
+        "lat": -26.356527,
+        "long": -70.639502,
+        "date": "2020-10-24"
+    },
+    {
+        "mid": 122,
+        "message": "Tanto tiempo! Estuve pensando en lo de P y NP. Jajajajaja.",
+        "sender": 85,
+        "receptant": 343,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-25"
+    },
+    {
+        "mid": 123,
+        "message": "Qué tal? Bailé hasta muy tarde. Jajajajaja.",
+        "sender": 160,
+        "receptant": 328,
+        "lat": -54.932902,
+        "long": -67.608116,
+        "date": "2020-10-26"
+    },
+    {
+        "mid": 124,
+        "message": "Cómo estás? Mi muñeca me habló. Eso me hace feliz.",
+        "sender": 328,
+        "receptant": 160,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-27"
+    },
+    {
+        "mid": 125,
+        "message": "Hola! Te quiero 3000. Cambio y fuera.",
+        "sender": 12,
+        "receptant": 455,
+        "lat": -23.079884,
+        "long": -70.385076,
+        "date": "2020-10-29"
+    },
+    {
+        "mid": 126,
+        "message": "Qué tal? anoche fui a un karaoke hasta muy tarde. Jajajajaja.",
+        "sender": 455,
+        "receptant": 12,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-02"
+    },
+    {
+        "mid": 127,
+        "message": "Tengo mucho sueño",
+        "sender": 390,
+        "receptant": 17,
+        "lat": -33.589508,
+        "long": -71.61972,
+        "date": "2020-08-06"
+    },
+    {
+        "mid": 128,
+        "message": "No! mis botones no! No mis botones de... gomita",
+        "sender": 17,
+        "receptant": 390,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-11"
+    },
+    {
+        "mid": 129,
+        "message": "Pasó algo. Perdí mi pingüino. Me despido, salu3.",
+        "sender": 205,
+        "receptant": 69,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-08-12"
+    },
+    {
+        "mid": 130,
+        "message": "Konnichiwa! No sé que hacer. Jajajajaja.",
+        "sender": 69,
+        "receptant": 205,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-15"
+    },
+    {
+        "mid": 131,
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 217,
+        "receptant": 117,
+        "lat": -54.932902,
+        "long": -67.608116,
+        "date": "2020-08-16"
+    },
+    {
+        "mid": 132,
+        "message": "Tanto tiempo! Pensaste en la propuesta?",
+        "sender": 117,
+        "receptant": 217,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-20"
+    },
+    {
+        "mid": 133,
+        "message": "Konnichiwa! Me encanta el reggaetton. Me despido, salu3.",
+        "sender": 333,
+        "receptant": 141,
+        "lat": -50.394799,
+        "long": -75.342221,
+        "date": "2020-08-23"
+    },
+    {
+        "mid": 134,
+        "message": "Perdón my silver bullet, no te pude proteger ni a ti ni a ángel",
+        "sender": 141,
+        "receptant": 333,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-26"
+    },
+    {
+        "mid": 135,
+        "message": "Hola, Anoche vi algo bastante raro",
+        "sender": 109,
+        "receptant": 429,
+        "lat": -27.055978,
+        "long": -70.833427,
+        "date": "2020-08-30"
+    },
+    {
+        "mid": 136,
+        "message": "Cómo estás? Quiero jugar Megaman. Bai.",
+        "sender": 429,
+        "receptant": 109,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-31"
+    },
+    {
+        "mid": 137,
+        "message": "",
+        "sender": 366,
+        "receptant": 160,
+        "lat": -54.932902,
+        "long": -67.608116,
+        "date": "2020-09-04"
+    },
+    {
+        "mid": 138,
+        "message": "Pasó algo. Estuve pensando en lo de P y NP. Me despido, salu3.",
+        "sender": 160,
+        "receptant": 366,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-07"
+    },
+    {
+        "mid": 139,
+        "message": "Tenemos que hablar. Me encanta el reggaetton. Espero que nos juntemos pronto.",
+        "sender": 12,
+        "receptant": 386,
+        "lat": -23.079884,
+        "long": -70.385076,
+        "date": "2020-09-12"
+    },
+    {
+        "mid": 140,
+        "message": "Buena! Me comí un churrasco. Eso me hace feliz.",
+        "sender": 386,
+        "receptant": 12,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-15"
+    },
+    {
+        "mid": 141,
+        "message": "Con agua y con jabón?",
+        "sender": 362,
+        "receptant": 287,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-23"
+    },
+    {
+        "mid": 142,
+        "message": "Hola! cómo te fue en la tarea?",
+        "sender": 287,
+        "receptant": 362,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-26"
+    },
+    {
+        "mid": 143,
+        "message": "Hola! Vienes en camino?",
+        "sender": 299,
+        "receptant": 395,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-28"
+    },
+    {
+        "mid": 144,
+        "message": "Buena! Cómo te fue con el encargo?",
+        "sender": 395,
+        "receptant": 299,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-03"
+    },
+    {
+        "mid": 145,
+        "message": "Te cuento que: Quiero jugar Megaman. Bai.",
+        "sender": 283,
+        "receptant": 330,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-06"
+    },
+    {
+        "mid": 146,
+        "message": "Buena! Vas a venir?",
+        "sender": 330,
+        "receptant": 283,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-07"
+    },
+    {
+        "mid": 147,
+        "message": "De acuerdo, te lo cuento, tu conoces a pin pon?",
+        "sender": 407,
+        "receptant": 19,
+        "lat": -29.975174,
+        "long": -71.347245,
+        "date": "2020-10-08"
+    },
+    {
+        "mid": 148,
+        "message": "Hola! Viste la teleserie?",
+        "sender": 19,
+        "receptant": 407,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-11"
+    },
+    {
+        "mid": 149,
+        "message": "Cómo estás? Te odio. No sé que hacer al respecto.",
+        "sender": 97,
+        "receptant": 431,
+        "lat": -28.461003,
+        "long": -71.223519,
+        "date": "2020-10-29"
+    },
+    {
+        "mid": 150,
+        "message": "Buena! Viste las noticias?",
+        "sender": 431,
+        "receptant": 97,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-30"
+    },
+    {
+        "mid": 151,
+        "message": "Creado algo, ah, nunca sería tan irresponsable y no ético, yo nunca, nunca... haría más de uno.",
+        "sender": 24,
+        "receptant": 360,
+        "lat": -22.093103,
+        "long": -70.211854,
+        "date": "2020-08-04"
+    },
+    {
+        "mid": 152,
+        "message": "Hey! Me comí un completo. Jajajajaja.",
+        "sender": 360,
+        "receptant": 24,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-13"
+    },
+    {
+        "mid": 153,
+        "message": "Buena! Me encanta el grunge.",
+        "sender": 194,
+        "receptant": 285,
+        "lat": -43.121427,
+        "long": -73.621572,
+        "date": "2020-08-14"
+    },
+    {
+        "mid": 154,
+        "message": "También vi unos de canciones salu3",
+        "sender": 285,
+        "receptant": 194,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-21"
+    },
+    {
+        "mid": 155,
+        "message": "Hey! Estoy borracho. Cambio y fuera.",
+        "sender": 118,
+        "receptant": 113,
+        "lat": -37.026453,
+        "long": -73.149839,
+        "date": "2020-08-28"
+    },
+    {
+        "mid": 156,
+        "message": "Buena! Estudiaste BD?",
+        "sender": 113,
+        "receptant": 118,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-30"
+    },
+    {
+        "mid": 157,
+        "message": "Te cuento que: Di un concierto anoche. Eso me tiene mal.",
+        "sender": 412,
+        "receptant": 35,
+        "lat": -33.027986,
+        "long": -71.623447,
+        "date": "2020-08-31"
+    },
+    {
+        "mid": 158,
+        "message": "Hola! Has ido al nuevo restaurant?",
+        "sender": 35,
+        "receptant": 412,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-10"
+    },
+    {
+        "mid": 159,
+        "message": "La copia es copia y por eso es mala?",
+        "sender": 219,
+        "receptant": 312,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-12"
+    },
+    {
+        "mid": 160,
+        "message": "Buena! Me encanta el reggaetton.",
+        "sender": 312,
+        "receptant": 219,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-13"
+    },
+    {
+        "mid": 161,
+        "message": "Cómo estás? Fue falta profe! Eso me tiene bien.",
+        "sender": 375,
+        "receptant": 458,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-16"
+    },
+    {
+        "mid": 162,
+        "message": "Tenemos que hablar. Ayer hice un sendero muy fácil.",
+        "sender": 458,
+        "receptant": 375,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-18"
+    },
+    {
+        "mid": 163,
+        "message": "Hola, No hay monstuos, ellos no existen",
+        "sender": 122,
+        "receptant": 260,
+        "lat": -45.462659,
+        "long": -72.824656,
+        "date": "2020-09-20"
+    },
+    {
+        "mid": 164,
+        "message": "Hiciste la tarea de BD?",
+        "sender": 260,
+        "receptant": 122,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-24"
+    },
+    {
+        "mid": 165,
+        "message": "Hola! Viste las noticias?",
+        "sender": 283,
+        "receptant": 338,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-05"
+    },
+    {
+        "mid": 166,
+        "message": "Tenemos que hablar. Descubrí que sobre las nubes vuela el aliento. Me despido, salu5.",
+        "sender": 338,
+        "receptant": 283,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-06"
+    },
+    {
+        "mid": 167,
+        "message": "Cómo estás? Perdí mi pingüino. 10 - 4.",
+        "sender": 445,
+        "receptant": 20,
+        "lat": -37.026453,
+        "long": -73.149839,
+        "date": "2020-10-07"
+    },
+    {
+        "mid": 168,
+        "message": "Te cuento que: Keep calm and buy NebCoins. Me despido, salu5.",
+        "sender": 20,
+        "receptant": 445,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-08"
+    },
+    {
+        "mid": 169,
+        "message": "Qué tal? Quiero jugar Pokémon. Espero que nos juntemos pronto.",
+        "sender": 455,
+        "receptant": 391,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-10-12"
+    },
+    {
+        "mid": 170,
+        "message": "shrek...pensaba que podría ser otra cosa igual",
+        "sender": 30,
+        "receptant": 130,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-12"
+    },
+    {
+        "mid": 171,
+        "message": "Te cuento que: Ayer hice un sendero muy fácil. Bai.",
+        "sender": 325,
+        "receptant": 308,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-10-19"
+    },
+    {
+        "mid": 172,
+        "message": "agua",
+        "sender": 308,
+        "receptant": 325,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-21"
+    },
+    {
+        "mid": 173,
+        "message": "Hey! Me lesioné. Cambio y fuera.",
+        "sender": 391,
+        "receptant": 190,
+        "lat": -23.079884,
+        "long": -70.385076,
+        "date": "2020-10-25"
+    },
+    {
+        "mid": 174,
+        "message": "Buena! Me gustó el hotel que reservé. Cambio y fuera.",
+        "sender": 190,
+        "receptant": 391,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-10-28"
+    },
+    {
+        "mid": 175,
+        "message": "Tenemos que hablar. Me voy de viaje. No sé que hacer al respecto.",
+        "sender": 343,
+        "receptant": 304,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-29"
+    },
+    {
+        "mid": 176,
+        "message": "Corre, corre, corre que nadie me puede alcanzar. Soy el hombre de jengibre.",
+        "sender": 304,
+        "receptant": 343,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-02"
+    },
+    {
+        "mid": 177,
+        "message": "He tratado de ser paciente con ustedes pero mi paciencia ha llegado a su límite, dime o te arrancaré...",
+        "sender": 323,
+        "receptant": 78,
+        "lat": -29.975174,
+        "long": -71.347245,
+        "date": "2020-08-03"
+    },
+    {
+        "mid": 178,
+        "message": "Vodka encontré al niño",
+        "sender": 78,
+        "receptant": 323,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-08"
+    },
+    {
+        "mid": 179,
+        "message": "No te creo jajajajaja.",
+        "sender": 383,
+        "receptant": 12,
+        "lat": -23.079884,
+        "long": -70.385076,
+        "date": "2020-08-09"
+    },
+    {
+        "mid": 180,
+        "message": "Pasó algo. Canté mi canción favorita anoche. Jajajajaja.",
+        "sender": 12,
+        "receptant": 383,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-15"
+    },
+    {
+        "mid": 181,
+        "message": "En serio? Yo prefiero el Tanganá",
+        "sender": 257,
+        "receptant": 325,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-17"
+    },
+    {
+        "mid": 182,
+        "message": "Pasó algo. Ayer hcie un sendero muy difícil. Me despido, salu3.",
+        "sender": 325,
+        "receptant": 257,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-08-21"
+    },
+    {
+        "mid": 183,
+        "message": "Tanto tiempo! Estoy intentando aprobar el test de turing. Eso me tiene mal.",
+        "sender": 55,
+        "receptant": 181,
+        "lat": -32.77554,
+        "long": -71.526049,
+        "date": "2020-08-24"
+    },
+    {
+        "mid": 184,
+        "message": "Te cuento que: Me quiero ir del United. Me despido, saludos.",
+        "sender": 181,
+        "receptant": 55,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-27"
+    },
+    {
+        "mid": 185,
+        "message": "Déjame iluminar la precaria situación en la que te encuentras. Yo soy a ese que llaman cuando las cosas van mal. Y las cosas en realidad van mal.",
+        "sender": 19,
+        "receptant": 387,
+        "lat": -29.975174,
+        "long": -71.347245,
+        "date": "2020-08-28"
+    },
+    {
+        "mid": 186,
+        "message": "a",
+        "sender": 387,
+        "receptant": 19,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-29"
+    },
+    {
+        "mid": 187,
+        "message": "Te cuento que: Me quiero ir del United. Jajajajaja.",
+        "sender": 99,
+        "receptant": 359,
+        "lat": -26.356527,
+        "long": -70.639502,
+        "date": "2020-08-30"
+    },
+    {
+        "mid": 188,
+        "message": "Qué tal? Pensé en lo que el paso de las estaciones significa en mi vida. Jijiji.",
+        "sender": 359,
+        "receptant": 99,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-09-10"
+    },
+    {
+        "mid": 189,
+        "message": "Tenemos que hablar. Me banearon del fifa por robar.",
+        "sender": 138,
+        "receptant": 280,
+        "lat": -32.77554,
+        "long": -71.526049,
+        "date": "2020-09-15"
+    },
+    {
+        "mid": 190,
+        "message": "Cómo estás? Me encanta el grunge. Espero que nos juntemos pronto.",
+        "sender": 280,
+        "receptant": 138,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-19"
+    },
+    {
+        "mid": 191,
+        "message": "Qué tal? Me despido, salu3.",
+        "sender": 299,
+        "receptant": 68,
+        "lat": -41.867364,
+        "long": -73.830638,
+        "date": "2020-09-26"
+    },
+    {
+        "mid": 192,
+        "message": "Qué tal? Está difícil la tarea. Eso me tiene bien.",
+        "sender": 68,
+        "receptant": 299,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-27"
+    },
+    {
+        "mid": 193,
+        "message": "Qué tal? Alcancé el equilibrio espiritual. Cuando un partido?",
+        "sender": 278,
+        "receptant": 346,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-02"
+    },
+    {
+        "mid": 194,
+        "message": "Qué tal? Cobreloa es el mejor equipo del mundo. Me despido, salu5.",
+        "sender": 346,
+        "receptant": 278,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-06"
+    },
+    {
+        "mid": 195,
+        "message": "Cómo estás? Lorem ipsum dolor sit amet. Jijiji.",
+        "sender": 268,
+        "receptant": 451,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-10-07"
+    },
+    {
+        "mid": 196,
+        "message": "Tenemos que hablar. Mi muñeca me habló. No sé que hacer al respecto.",
+        "sender": 451,
+        "receptant": 268,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-13"
+    },
+    {
+        "mid": 197,
+        "message": "Qué tal? Cómo va la Cuarentena?",
+        "sender": 92,
+        "receptant": 123,
+        "lat": -45.462659,
+        "long": -72.824656,
+        "date": "2020-10-15"
+    },
+    {
+        "mid": 198,
+        "message": "Cómo estás? Cobreloa es el mejor equipo del mundo. Eso me hace feliz.",
+        "sender": 123,
+        "receptant": 92,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-17"
+    },
+    {
+        "mid": 199,
+        "message": "Te cuento que: Ayer hice un sendero muy fácil. Eso me hace feliz.",
+        "sender": 156,
+        "receptant": 312,
+        "lat": -18.474642,
+        "long": -70.321262,
+        "date": "2020-10-18"
+    },
+    {
+        "mid": 200,
+        "message": "Konnichiwa! Estamos preparando material para el nuevo disco. Me despido, saludos.",
+        "sender": 312,
+        "receptant": 156,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-24"
+    },
+    {
+        "mid": 201,
+        "message": "Pasó algo. Me encanta el grunge. Cuando un partido?",
+        "sender": 278,
+        "receptant": 136,
+        "lat": -23.097062,
+        "long": -70.448128,
+        "date": "2019-08-05"
+    },
+    {
+        "mid": 202,
+        "message": "Hey! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Eso me tiene mal.",
+        "sender": 136,
+        "receptant": 278,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2019-08-12"
+    },
+    {
+        "mid": 203,
+        "message": "Sucede que: Me gustó el hotel que reservé. No sé que hacer al respecto.",
+        "sender": 448,
+        "receptant": 277,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2019-08-26"
+    },
+    {
+        "mid": 204,
+        "message": "No puedo creer que estemos arruinando el medio ambiente con esto. Cambio y fuera",
+        "sender": 277,
+        "receptant": 448,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2019-08-30"
+    },
+    {
+        "mid": 205,
+        "message": "Te cuento que: Tengo que estudiar Bases de Datos. Me despido, salu3.",
+        "sender": 135,
+        "receptant": 345,
+        "lat": -37.026453,
+        "long": -73.149839,
+        "date": "2019-08-31"
+    },
+    {
+        "mid": 206,
+        "message": "Sucede que: Fue falta profe! No sé que hacer al respecto.",
+        "sender": 345,
+        "receptant": 135,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2019-10-07"
+    },
+    {
+        "mid": 207,
+        "message": "Oye, fuiste a ver shrek? escuché que venía bien cargado",
+        "sender": 351,
+        "receptant": 176,
+        "lat": -27.055978,
+        "long": -70.833427,
+        "date": "2019-11-01"
+    },
+    {
+        "mid": 208,
+        "message": "Buena! Me encanta el reggaetton. Eso me hace feliz.",
+        "sender": 176,
+        "receptant": 351,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2019-11-22"
+    },
+    {
+        "mid": 209,
+        "message": "Hola! Me banearon del fifa por robar.",
+        "sender": 237,
+        "receptant": 68,
+        "lat": -41.867364,
+        "long": -73.830638,
+        "date": "2019-12-02"
+    },
+    {
+        "mid": 210,
+        "message": "A todo esto, por qué magikarps y shrek? no habían códigos mejores?",
+        "sender": 171,
+        "receptant": 212,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-13"
+    },
+    {
+        "mid": 211,
+        "message": "Tanto tiempo! Tengo que estudiar Bases de Datos. 10 - 4.",
+        "sender": 218,
+        "receptant": 271,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-01-31"
+    },
+    {
+        "mid": 212,
+        "message": "Y si me postulo para constituyente?",
+        "sender": 271,
+        "receptant": 218,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-02-20"
+    },
+    {
+        "mid": 213,
+        "message": "Creo que se te olvida el código misterioso",
+        "sender": 212,
+        "receptant": 171,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-13"
+    },
+    {
+        "mid": 214,
+        "message": "Se lava su carita con agua y con jabón.",
+        "sender": 387,
+        "receptant": 344,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-03-16"
+    },
+    {
+        "mid": 215,
+        "message": "Hola! Cómo estás?",
+        "sender": 251,
+        "receptant": 190,
+        "lat": -23.079884,
+        "long": -70.385076,
+        "date": "2020-04-02"
+    },
+    {
+        "mid": 216,
+        "message": "Qué tal? Me banearon del fifa por robar. Jijiji.",
+        "sender": 190,
+        "receptant": 251,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-04-30"
+    },
+    {
+        "mid": 217,
+        "message": "Buena! Estudiaste BD?",
+        "sender": 53,
+        "receptant": 292,
+        "lat": -26.356527,
+        "long": -70.639502,
+        "date": "2020-05-07"
+    },
+    {
+        "mid": 218,
+        "message": "Cómo estás? Di un concierto anoche. Espero que nos juntemos pronto.",
+        "sender": 292,
+        "receptant": 53,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-05-12"
+    },
+    {
+        "mid": 219,
+        "message": "Tenemos que hablar. This is no time for caution, TARS. No sé que hacer al respecto.",
+        "sender": 103,
+        "receptant": 459,
+        "lat": -45.462659,
+        "long": -72.824656,
+        "date": "2020-05-18"
+    },
+    {
+        "mid": 220,
+        "message": "Cómo estás? Di un concierto anoche. Jijiji.",
+        "sender": 459,
+        "receptant": 103,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-06-01"
+    },
+    {
+        "mid": 221,
+        "message": "Tanto tiempo! Me encanta el metal. Me despido, salu5.",
+        "sender": 149,
+        "receptant": 307,
+        "lat": -41.867364,
+        "long": -73.830638,
+        "date": "2020-06-03"
+    },
+    {
+        "mid": 222,
+        "message": "Tanto tiempo! Pensaste lo que el paso de las estaciones significa en tu vida?",
+        "sender": 307,
+        "receptant": 149,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-06-18"
+    },
+    {
+        "mid": 223,
+        "message": "La mar estaba sereeeena serena estaba la mar",
+        "sender": 164,
+        "receptant": 8,
+        "lat": -27.153662,
+        "long": -109.442666,
+        "date": "2020-07-01"
+    },
+    {
+        "mid": 224,
+        "message": "Pasó algo. Bailé hasta muy tarde. Jijiji.",
+        "sender": 8,
+        "receptant": 164,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-08-05"
+    },
+    {
+        "mid": 225,
+        "message": "Tenemos que ir a buscar los magikarp, volvemos en unos días",
+        "sender": 218,
+        "receptant": 201,
+        "lat": -29.913745,
+        "long": -71.277043,
+        "date": "2020-09-16"
+    },
+    {
+        "mid": 226,
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 201,
+        "receptant": 218,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2019-08-02"
+    },
+    {
+        "mid": 227,
+        "message": "Hola! Vas a venir?",
+        "sender": 441,
+        "receptant": 437,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2019-09-15"
+    },
+    {
+        "mid": 228,
+        "message": "Te cuento que: Me robé su corazón. Jajajajaja.",
+        "sender": 437,
+        "receptant": 441,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2019-10-12"
+    },
+    {
+        "mid": 229,
+        "message": "Sucede que: Canté mi canción favorita anoche. Cuando un partido?",
+        "sender": 414,
+        "receptant": 16,
+        "lat": -41.867364,
+        "long": -73.830638,
+        "date": "2019-10-16"
+    },
+    {
+        "mid": 230,
+        "message": "Konnichiwa! Quiero hacer el tour de Robert Langdon por Roma. Bai.",
+        "sender": 16,
+        "receptant": 414,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2019-10-23"
+    },
+    {
+        "mid": 231,
+        "message": "Hola! Estuve pensando en lo de P y NP. Cambio y fuera.",
+        "sender": 364,
+        "receptant": 220,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2019-11-11"
+    },
+    {
+        "mid": 232,
+        "message": "Konnichiwa! Odio el reggaetton. Me despido, saludos.",
+        "sender": 220,
+        "receptant": 364,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2019-11-22"
+    },
+    {
+        "mid": 233,
+        "message": "Hey! Di un concierto anoche. Espero que nos juntemos pronto.",
+        "sender": 276,
+        "receptant": 58,
+        "lat": -36.737253,
+        "long": -73.133979,
+        "date": "2019-12-11"
+    },
+    {
+        "mid": 234,
+        "message": "Hey! Quiero jugar Pokémon. Me despido, saludos.",
+        "sender": 58,
+        "receptant": 276,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2019-12-14"
+    },
+    {
+        "mid": 235,
+        "message": "Probando probando 123 123",
+        "sender": 386,
+        "receptant": 2,
+        "lat": -20.799534,
+        "long": -70.188508,
+        "date": "2020-01-09"
+    },
+    {
+        "mid": 236,
+        "message": "Tanto tiempo! Descubrí que sobre las nubes vuela el aliento. Cuando un partido?",
+        "sender": 2,
+        "receptant": 386,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-02-02"
+    },
+    {
+        "mid": 237,
+        "message": "Hola! Me gustó el hotel que reservé. Bai.",
+        "sender": 217,
+        "receptant": 388,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-02-11"
+    },
+    {
+        "mid": 238,
+        "message": "El único mounstuo aquí eres tú! Tú y esos personajes de cuentos de hadas que arruinan mi mundo perfecto",
+        "sender": 388,
+        "receptant": 217,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-02-22"
+    },
+    {
+        "mid": 239,
+        "message": "Tanto tiempo! Me comí un churrasco. Cuando un partido?",
+        "sender": 358,
+        "receptant": 430,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-02-27"
+    },
+    {
+        "mid": 240,
+        "message": "Pasó algo. No lo sé Rick, parece falso. Eso me tiene bien.",
+        "sender": 430,
+        "receptant": 358,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-03-03"
+    },
+    {
+        "mid": 241,
+        "message": "Tenemos que hablar. Tengo que estudiar Bases de Datos. Jajajajaja.",
+        "sender": 381,
+        "receptant": 334,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-03-07"
+    },
+    {
+        "mid": 242,
+        "message": "Tanto tiempo! Quiero hacer el tour de Robert Langdon por Roma. Cuando un partido?",
+        "sender": 334,
+        "receptant": 381,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-04-11"
+    },
+    {
+        "mid": 243,
+        "message": "¿A pin pon?",
+        "sender": 252,
+        "receptant": 159,
+        "lat": -25.407497,
+        "long": -70.489783,
+        "date": "2020-04-29"
+    },
+    {
+        "mid": 244,
+        "message": "Qué tal? Vi a un ballet anoche. Eso me tiene mal.",
+        "sender": 159,
+        "receptant": 252,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-06-03"
+    },
+    {
+        "mid": 245,
+        "message": "Noooooo se me olvidó entregar la solicitud. Eso me tiene mal",
+        "sender": 70,
+        "receptant": 78,
+        "lat": -29.975174,
+        "long": -71.347245,
+        "date": "2020-06-28"
+    },
+    {
+        "mid": 246,
+        "message": "Y... cómo va el negocio de los magikarp?",
+        "sender": 130,
+        "receptant": 289,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-11"
+    },
+    {
+        "mid": 247,
+        "message": "Hola! Hice un pingüino de origami. Eso me hace feliz.",
+        "sender": 135,
+        "receptant": 327,
+        "lat": -37.026453,
+        "long": -73.149839,
+        "date": "2020-07-26"
+    },
+    {
+        "mid": 248,
+        "message": "Qué tal? Quería saber cómo va tu día. Eso me tiene bien.",
+        "sender": 327,
+        "receptant": 135,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-11"
+    },
+    {
+        "mid": 249,
+        "message": "Cómo estás? Quiero jugar Megaman. Espero que nos juntemos pronto.",
+        "sender": 345,
+        "receptant": 416,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-15"
+    },
+    {
+        "mid": 250,
+        "message": "Qué tal? Hubo un gol de Audax. Cuando un partido?",
+        "sender": 416,
+        "receptant": 345,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-10-17"
+    },
+    {
+        "mid": 251,
+        "message": "Hola! Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Eso me tiene bien.",
+        "sender": 325,
+        "receptant": 419,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2019-08-26"
+    },
+    {
+        "mid": 252,
+        "message": "Soy un dinosaurio y me llamo Anacleto",
+        "sender": 419,
+        "receptant": 325,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2019-09-14"
+    },
+    {
+        "mid": 253,
+        "message": "Buena! Odio el reggaetton. Eso me tiene mal.",
+        "sender": 176,
+        "receptant": 408,
+        "lat": -27.055978,
+        "long": -70.833427,
+        "date": "2019-09-21"
+    },
+    {
+        "mid": 254,
+        "message": "Te cuento que: Eso me tiene mal.",
+        "sender": 408,
+        "receptant": 176,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2019-10-11"
+    },
+    {
+        "mid": 255,
+        "message": "Tanto tiempo! Escuché la nueva canción de Metallica. Eso me hace feliz.",
+        "sender": 286,
+        "receptant": 152,
+        "lat": -20.799534,
+        "long": -70.188508,
+        "date": "2019-10-23"
+    },
+    {
+        "mid": 256,
+        "message": "Sucede que: Me comí un churrasco. Eso me hace feliz.",
+        "sender": 152,
+        "receptant": 286,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2019-10-29"
+    },
+    {
+        "mid": 257,
+        "message": "Te cuento que: Me banearon del fifa por robar. Eso me hace feliz.",
+        "sender": 273,
+        "receptant": 295,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2019-10-30"
+    },
+    {
+        "mid": 258,
+        "message": "Hey! Quiero jugar Megaman. 10 - 4.",
+        "sender": 295,
+        "receptant": 273,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-01-02"
+    },
+    {
+        "mid": 259,
+        "message": "Pasó algo. Quiero jugar Pokémon. Eso me tiene bien.",
+        "sender": 37,
+        "receptant": 83,
+        "lat": -32.77554,
+        "long": -71.526049,
+        "date": "2020-01-08"
+    },
+    {
+        "mid": 260,
+        "message": "Qué tal? Estuve pensando en lo de P y NP. Jijiji.",
+        "sender": 83,
+        "receptant": 37,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-01-16"
+    },
+    {
+        "mid": 261,
+        "message": "Hola! Bailé hasta muy tarde. Jijiji.",
+        "sender": 268,
+        "receptant": 366,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-01-17"
+    },
+    {
+        "mid": 262,
+        "message": "Si, creo que hay algunos que son de películas jajajajaja.",
+        "sender": 366,
+        "receptant": 268,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-02-12"
+    },
+    {
+        "mid": 263,
+        "message": "Tenemos que hablar. I m a pickle. Cambio y fuera.",
+        "sender": 415,
+        "receptant": 19,
+        "lat": -29.975174,
+        "long": -71.347245,
+        "date": "2020-02-16"
+    },
+    {
+        "mid": 264,
+        "message": "Cerdo!",
+        "sender": 19,
+        "receptant": 415,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-03-17"
+    },
+    {
+        "mid": 265,
+        "message": "No, mejor no hacerlo no?",
+        "sender": 6,
+        "receptant": 453,
+        "lat": -41.475514,
+        "long": -72.944576,
+        "date": "2020-03-31"
+    },
+    {
+        "mid": 266,
+        "message": "Tanto tiempo! Viste las noticias?",
+        "sender": 453,
+        "receptant": 6,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-04-02"
+    },
+    {
+        "mid": 267,
+        "message": "Hola! Quiero jugar Pokémon. Bai.",
+        "sender": 338,
+        "receptant": 284,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-07-27"
+    },
+    {
+        "mid": 268,
+        "message": "Hey! Fue falta profe!",
+        "sender": 284,
+        "receptant": 338,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-01"
+    },
+    {
+        "mid": 269,
+        "message": "Sucede que: Me encanta el grunge.",
+        "sender": 270,
+        "receptant": 180,
+        "lat": -45.462659,
+        "long": -72.824656,
+        "date": "2020-08-19"
+    },
+    {
+        "mid": 270,
+        "message": "Konnichiwa! Di un concierto anoche. Me despido, salu5.",
+        "sender": 180,
+        "receptant": 270,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-20"
+    },
+    {
+        "mid": 271,
+        "message": "Qué tal? Pensé en lo que el paso de las estaciones significa en mi vida. Cuando un partido?",
+        "sender": 306,
+        "receptant": 262,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-25"
+    },
+    {
+        "mid": 272,
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 262,
+        "receptant": 306,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-09-06"
+    },
+    {
+        "mid": 273,
+        "message": "Hey! Está difícil la tarea. Me despido, salu5.",
+        "sender": 276,
+        "receptant": 157,
+        "lat": -29.451288,
+        "long": -71.313573,
+        "date": "2020-09-12"
+    },
+    {
+        "mid": 274,
+        "message": "Hola! Cómo te fue con el encargo?",
+        "sender": 157,
+        "receptant": 276,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-09-18"
+    },
+    {
+        "mid": 275,
+        "message": "Pasó algo. Te odio. No sé que hacer al respecto.",
+        "sender": 215,
+        "receptant": 60,
+        "lat": -37.095664,
+        "long": -73.166995,
+        "date": "2020-10-04"
+    },
+    {
+        "mid": 276,
+        "message": "a",
+        "sender": 60,
+        "receptant": 215,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-08-17"
+    },
+    {
+        "mid": 277,
+        "message": "Konnichiwa! Ayer hcie un sendero muy difícil. 10 - 4.",
+        "sender": 172,
+        "receptant": 395,
+        "lat": -23.645967,
+        "long": -70.407993,
+        "date": "2020-08-19"
+    },
+    {
+        "mid": 278,
+        "message": "Konnichiwa! Alcancé el equilibrio espiritual. Cambio y fuera.",
+        "sender": 395,
+        "receptant": 172,
+        "lat": -50.291406,
+        "long": -90.276865,
+        "date": "2020-08-25"
+    },
+    {
+        "mid": 279,
+        "message": "Buena! Has ido al nuevo restaurant?",
+        "sender": 389,
+        "receptant": 360,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-01"
+    },
+    {
+        "mid": 280,
+        "message": "Pasó algo. Canté mi canción favorita anoche. Bai.",
+        "sender": 360,
+        "receptant": 389,
+        "lat": -27.374641,
+        "long": -90.276865,
+        "date": "2020-09-02"
+    },
+    {
+        "mid": 281,
+        "message": "Jajajaja parece que conseguimos unos magikarp bien grandes",
+        "sender": 289,
+        "receptant": 171,
+        "lat": -27.286801,
+        "long": -128.20167,
+        "date": "2020-06-10"
+    },
+    {
+        "mid": 282,
+        "message": "No me puedo creer que shrek haya estado aquí y no me hayas dicho ¿Cuantos van?",
+        "sender": 212,
+        "receptant": 130,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-10"
+    },
+    {
+        "mid": 283,
+        "message": "La mar estaba serena serena estaba la mar jajajajaja.",
+        "sender": 78,
+        "receptant": 70,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2020-07-11"
+    },
+    {
+        "mid": 284,
+        "message": "Acabamos de juntarnos con shrek y conseguimos un gran botín",
+        "sender": 289,
+        "receptant": 130,
+        "lat": -27.286801,
+        "long": -128.20167,
+        "date": "2020-07-11"
+    },
+    {
+        "mid": 285,
+        "message": "Hey! Pensé en lo que el paso de las estaciones significa en mi vida. Eso me hace feliz.",
+        "sender": 391,
+        "receptant": 455,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-10-13"
+    },
+    {
+        "mid": 286,
+        "message": "shrek is love, shrek is life, es un sacrilegio que opines lo contrario",
+        "sender": 130,
+        "receptant": 30,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-12"
+    },
+    {
+        "mid": 287,
+        "message": "Igual me da miedo que descubran lo de los magikarp, a ti no?",
+        "sender": 171,
+        "receptant": 212,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-13"
+    },
+    {
+        "mid": 288,
+        "message": "La verdad es que todo esto de los magikarp me ha dado una mala espina",
+        "sender": 212,
+        "receptant": 171,
+        "lat": -20.736956,
+        "long": -70.182595,
+        "date": "2020-07-13"
+    },
+    {
+        "mid": 289,
+        "message": "Sucede que: Canté mi canción favorita anoche. No sé que hacer al respecto.",
+        "sender": 68,
+        "receptant": 237,
+        "lat": -27.374641,
+        "long": -90.97999,
+        "date": "2019-12-06"
+    },
+    {
+        "mid": 290,
+        "message": "La Tierra es una reserva de protección de vida salvaje. Estamos reconstruyendo la población de mosquitos... que déjeme recordarle es una especie en peligro.",
+        "sender": 344,
+        "receptant": 387,
+        "lat": -50.291406,
+        "long": -90.97999,
+        "date": "2020-02-27"
+    }
+]
