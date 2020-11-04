@@ -1,0 +1,37 @@
+[
+	{	"uid": 1,
+		"name": "Adrian",
+		"last_name": "Soto",
+		"ocupation": "Delantero de Cobreloa",
+		"follows": [2,3],
+		"age": 24
+	},
+	{	"uid": 2,
+		"name": "Florencia",
+		"last_name": "Barrios",
+		"ocupation": "Hacker de Pet Society",
+		"follows": [1,4],
+		"age": 22
+	},
+	{	"uid": 3,
+		"name": "Devil",
+		"last_name": "Sawak",
+		"ocupation": "Dueño de Quik Devil",
+		"follows": [4],
+		"age": 40
+	},
+	{	"uid": 4,
+		"name": "Nebil",
+		"last_name": "Kawas",
+		"ocupation": "DT de Palestino",
+		"follows": [1,2,3],
+		"age": 17
+	},
+	{	"uid": 5,
+		"name": "Fernando",
+		"last_name": "Pieressa",
+		"ocupation": "Traductor",
+		"follows": [],
+		"age": 20
+	}
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "mid": 1,
+    "uid": 3,
+    "msj": {
+      "title": "Mensaje 1",
+      "content": "Lorem ipsum dolor sit amet."
+    },
+    "likes": 2
+  },
+  {
+    "mid": 2,
+    "uid": 2,
+    "msj": {
+      "title": "Mensaje 2",
+      "content": "Lorem ipsum dolor sit amet."
+    },
+    "likes": 1
+  },
+  {
+    "mid": 3,
+    "uid": 2,
+    "msj": {
+      "title": "Mensaje 3",
+      "content": "Lorem ipsum dolor sit amet."
+    },
+    "likes": 3
+  },
+  {
+    "mid": 4,
+    "uid": 3,
+    "msj": {
+      "title": "Mensaje 4",
+      "content": "Lorem ipsum dolor sit amet."
+    },
+    "likes": 0
+  },
+  {
+    "mid": 5,
+    "uid": 4,
+    "msj": {
+      "title": "Mensaje 5",
+      "content": "Lorem ipsum dolor sit amet."
+    },
+    "likes": 1
+  },
+  {
+    "mid": 6,
+    "uid": 4,
+    "msj": {
+      "title": "Mensaje 6",
+      "content": "Lorem ipsum dolor sit amet."
+    },
+    "likes": 1
+  },
+  {
+    "mid": 7,
+    "uid": 4,
+    "msj": {
+      "title": "Mensaje 7",
+      "content": "Lorem ipsum dolor sit amet."
+    },
+    "likes": 1
+  },
+  {
+    "mid": 8,
+    "uid": 3,
+    "msj": {
+      "title": "Mensaje 8",
+      "content": "Deseo leche con chocolate."
+    },
+    "likes": 5
+  },
+  {
+    "mid": 9,
+    "uid": 3,
+    "msj": {
+      "title": "Mensaje 9",
+      "content": "Deseo comer un chocolate."
+    },
+    "likes": 4
+  },
+  {
+    "mid": 10,
+    "uid": 3,
+    "msj": {
+      "title": "Mensaje 10",
+      "content": "Vi un ballet."
+    },
+    "likes": 5
+  },
+  {
+    "mid": 11,
+    "uid": 5,
+    "msj": {
+      "title": "Mensaje 11",
+      "content": "Vi un ballet, eso me tiene mal."
+    },
+    "likes": 2
+  },
+  {
+    "mid": 12,
+    "uid": 4,
+    "msj": {
+      "title": "Mensaje 12",
+      "content": "Vi un ballet, pero comí chocolate."
+    },
+    "likes": 5
+  },
+  {
+    "mid": 13,
+    "uid": 5,
+    "msj": {
+      "title": "Mensaje 13",
+      "content": "Hola ke ase."
+    },
+    "likes": 2
+  },
+  {
+    "mid": 14,
+    "uid": 3,
+    "msj": {
+      "title": "Mensaje 14",
+      "content": "Deseo escribir lorem ipsum."
+    },
+    "likes": 3
+  },
+  {
+    "mid": 15,
+    "uid": 5,
+    "msj": {
+      "title": "Mensaje 15",
+      "content": "Comi demasiado chocolate, eso me tiene mal."
+    },
+    "likes": 1
+  }
+]

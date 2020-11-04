@@ -1,0 +1,27 @@
+[
+	{	"pid": 1,
+		"name": "Producto 1",
+		"tags": ["Tag 1", "Tag 2"],
+		"price": 100
+	},
+	{	"pid": 2,
+		"name": "Producto 2",
+		"tags": ["Tag 2", "Tag 3", "Tag 4"],
+		"price": 200
+	},
+	{	"pid": 3,
+		"name": "Producto 3",
+		"tags": ["Tag 2"],
+		"price": 300
+	},
+	{	"pid": 4,
+		"name": "Producto 4",
+		"tags": ["Tag 3", "Tag 5"],
+		"price": 400
+	},
+	{	"pid": 5,
+		"name": "Producto 5",
+		"tags": ["Tag 6"],
+		"price": 500
+	}
+]
