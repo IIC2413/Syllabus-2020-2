@@ -9,5 +9,5 @@
 |Procedimientos almacenados             | 30/09 | https://drive.google.com/file/d/1lAkJj3th2TuB4mOwJUB608F1WnlG_KnI/view?usp=sharing |
 |Índices e algoritmos            |07/10 | https://drive.google.com/file/d/1Gs1xorQJ_K6GrozZ1sBivG8IbqdckNTW/view?usp=sharing |
 |Transacciones y recuperación de fallas           |28/10 | https://drive.google.com/file/d/1wB8qchOQWAIK-FT-d2LhYUbU4Z7Ex1M-/view?usp=sharing |
-
+|NoSQL          |04/11 | https://drive.google.com/file/d/1UQmUtoaK6HmfLndU8n6FUvm_1yOcSxpH/view?usp=sharing |
 
