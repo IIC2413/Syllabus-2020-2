@@ -6,3 +6,5 @@
 |Video de Ayuda 1: Discord | https://www.youtube.com/watch?v=dRVgEsRwk58&feature=youtu.be |
 |Ayudantia 2: PHP | https://drive.google.com/file/d/1KrGJh8W2yH55V0w5nHlKljV6t03L6f_l/view?usp=sharing |
 |Ayudantia 3: Actividad 2 | https://drive.google.com/file/d/19xSEbhyg_od64aesgKBH7IFUkk9r99yT/view?usp=sharing |
+|Ayudantia 4: Flask y MongoDB | https://drive.google.com/file/d/10asOlJUREzTmDHID89wWeRPZ2uWd_OU2/view?usp=sharing |
+
