@@ -35,7 +35,6 @@ Los puntajes asignados son los siguientes:
 ## Bonus
 
 - (Hasta 4 décimas) Por navegación sobresaliente.
-- (3 décimas) Por agregar imágenes correspondientes a cada artista, obra y lugar.
 
 ## Descuentos
 
