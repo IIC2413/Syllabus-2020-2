@@ -20,4 +20,8 @@
 | Almacenamiento e índices | https://www.youtube.com/watch?v=9zeiEzqG8ps&t=2461s |
 | Algoritmos y Buffer | https://drive.google.com/file/d/1A5EVhvymgFOMfmXRlCzxKumHnWdWi_uF/view?usp=sharing |
 | Transacciones y recuperacion de fallas | https://www.youtube.com/playlist?list=PLeLV_ztnnBShvNikoSSQBsAMhwq47fpym |
+| MapReduce | https://drive.google.com/file/d/1pM1oFA6rjWAVpjp3y9juX2mGT4kT-fYE/view?usp=sharing |
+| Text Search | https://www.youtube.com/watch?v=vR97-4UG7x0 |
+
+
 
