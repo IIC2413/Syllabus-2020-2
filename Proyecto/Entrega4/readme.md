@@ -32,3 +32,15 @@ Los puntajes asignados son los siguientes:
   - (4 pts) La búsqueda funciona con los 4 criterios simultáneamente.
 
 - **(12 pts) POST:** el puntaje se divide de la siguiente manera:
+
+  - (12 pts) Si se entregan todos los atributos, es posible crear un nuevo mensaje. Si no se entregan todos los atributos, el mensaje no se crea y se muestra el atributo erróneo
+
+* **(6 pts) DELETE:** el puntaje se divide de la siguiente manera:
+
+  - (6 pts) Es posible eliminar un mensaje existente. Si el ID no existe, la app no se cae.
+
+## Descuentos
+
+- (1 pto) Por subir en carpeta incorrecta.
+
+- (Hasta 1 pto) A juicio del corrector, por trabajos que no estén bien explicados, que cuenten con demasiadas faltas de ortografía o que se dificulte la corrección.
