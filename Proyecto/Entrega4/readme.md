@@ -5,6 +5,7 @@ https://docs.google.com/spreadsheets/d/1PwtaZ1sV77e7VReRNgXZY-3SZJn2jfKI4fSntLNQ
 ## Cambios realizados
 - G3.4, Modificada el 12-11-2020 19:17hrs, se elimina un resultado que era incorrecto
 - G3.3, Modificada el 16-11-2020 08:57hrs, se agregan resultados faltantes
+- G3.3, Modificada el 16-11-2020 10:55hrs, se agregan resultados faltantes
 
 
 # Rúbrica E4
