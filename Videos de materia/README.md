@@ -23,6 +23,6 @@
 | MapReduce | https://drive.google.com/file/d/1pM1oFA6rjWAVpjp3y9juX2mGT4kT-fYE/view?usp=sharing |
 | ¿Qué es WikiData? | https://drive.google.com/file/d/1Do1eHpT_JBT3s51TsLiigEzrcFUWP0h8/view?usp=sharing |
 | Text Search | https://www.youtube.com/watch?v=vR97-4UG7x0 |
-
+| Data Science y Bases de Datos | https://drive.google.com/file/d/1foe4QW1yhp8923mimoQ5137goPRabSgZ/view?usp=sharing |
 
 
