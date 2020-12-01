@@ -12,7 +12,7 @@
 ---
 
 ## Notas
-Las notas serán publicadas en [ este link ](https://docs.google.com/spreadsheets/d/1d5p_HzLSc0n7MnTgX0DvYpIWzBirbrur8T_MqIo0etM/edit?usp=sharing)
+Las notas serán publicadas en [ este link ](https://docs.google.com/spreadsheets/d/1d5p_HzLSc0n7MnTgX0DvYpIWzBirbrur8T_MqIo0etM/edit?usp=sharing) y el form de recorreccion lo encuentran [aqui](https://forms.gle/MFt3s6eRrpLbN4JV8)
 
 ## Equipo
 
